@@ -1,6 +1,6 @@
 Action()
 {
-	
+	// This is my changes for Demo2
 	web_custom_request("web_custom_request",
 		"URL=http://blazedemo.com",
 		"Method=GET",
